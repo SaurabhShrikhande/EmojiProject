@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#grand{
+    background-color: black;
+    color: white;
+}
+
+#a1{
+    padding: 20px;
+    margin: 10px;
+}
+
+#a2{
+    font-size: 40px;
+}
+
+hr{
+    margin: 10px 0px 15px;
+}
+
+.font{
+    font-size: 20px;
+}
+
+#tab{
+    font-size: 25px;
+}
+
+#td1{
+    width: 15vw;
+}
+
+#td2{
+    width: 42.5vw;
+}
+
+#d2{
+    width: 42.5vw;
+}
+
+#trow, #td1, #td2, #td3{
+    border-top: 1ps solid white;
+    border-bottom: 1px solid white;
+}
